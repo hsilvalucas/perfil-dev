@@ -2,3 +2,5 @@ nome: Lucas Henrique
 curso: Engenharia
 linguagens: JAVA, python e outras 
 objetivo profissional: ser um grande desenvolvedor
+
+hobbies: programar, jogar videogame, estudar tecnologia
